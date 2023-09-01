@@ -1,0 +1,42 @@
+font family
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap" rel="stylesheet">
+
+font-family: 'Poppins', sans-serif;
+
+200  400 500 600 800
+
+--------------------------------------------------------------------------------------------------------------------------
+color
+
+background beheain cart: #EDECFF
+background cart: #FFF
+backgorun buttom: #9187E6
+color text icoons: #98969C
+color spicy: #FFE9E6
+color text spicy: #DB3A1E
+
+
+--------------------------------------------------------------------------------------------------------------------------
+text:
+Spicy
+
+
+Cheeseburger with spicy sauce
+4.3
+524 kcal
+3909
+
+
+Ingredients
+Breef
+Cheese
+Lettuce
+Tomatoes
+Bread
+
+Allergen information: Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Soybean Oil, Sesame Seeds, Yeast, Salt. Contains wheat, soy, and sesame.
+
