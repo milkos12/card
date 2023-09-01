@@ -1,6 +1,6 @@
 # Tarjetas CSS y HTML
 
-¡Esta tarjeta son hechas con css y html!
+¡Esta tarjeta está hecha con css y html!
 
 ## Características
 
